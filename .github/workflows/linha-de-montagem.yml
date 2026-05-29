@@ -24,6 +24,7 @@ jobs:
       - name: 4. Empacotar o produto final (Artefato)
         uses: actions/upload-artifact@v3
         with:
+        
         name: pacote-do-produto
         path: produto.txt
 
