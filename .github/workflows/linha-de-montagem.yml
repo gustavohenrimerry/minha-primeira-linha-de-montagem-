@@ -25,7 +25,6 @@ jobs:
         uses: actions/upload-artifact@v3
         
         with:
-        
-        name: pacote-do-produto
-        path: produto.txt
+         name: pacote-do-produto
+         path: produto.txt
 
